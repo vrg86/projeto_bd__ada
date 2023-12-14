@@ -9,6 +9,6 @@ Projeto avaliativo da disciplina de Bancos de Dados I - ADA Tech
 ## Junio Silva
 ## Vanderson Gonçalves
 
-O projeto simula uma escola com os registros dos seus aluna, professores, turmas e matérias.
+O projeto simula uma escola com os registros dos seus alunos, professores, turmas e matérias.
 
 Para a implementação foi utilizado o SGBD MySQL.
